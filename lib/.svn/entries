@@ -1,0 +1,40 @@
+8
+
+dir
+27
+http://www.iterativegames.com/SpaceTower/lib
+http://www.iterativegames.com/SpaceTower
+
+
+
+2012-12-11T01:14:14.534336Z
+27
+damaestrio
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a2df453-f503-44d6-8a67-2434e36f1b1b
+
+plugins
+dir
+
+weltmeister
+dir
+
+game
+dir
+
+impact
+dir
+
